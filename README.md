@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Wizard0880/DSA_Streak/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Wizard0880/DSA_Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Wizard0880/DSA_Streak/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
