@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Wizard0880/DSA_Streak/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Wizard0880/DSA_Streak/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Wizard0880/DSA_Streak/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Wizard0880/DSA_Streak/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Wizard0880/DSA_Streak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Wizard0880/DSA_Streak/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
