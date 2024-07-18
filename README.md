@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Wizard0880/DSA_Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Wizard0880/DSA_Streak/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Wizard0880/DSA_Streak/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Wizard0880/DSA_Streak/tree/master/0283-move-zeroes) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Wizard0880/DSA_Streak/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
