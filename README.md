@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Wizard0880/DSA_Streak/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Wizard0880/DSA_Streak/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Wizard0880/DSA_Streak/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Wizard0880/DSA_Streak/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Wizard0880/DSA_Streak/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Wizard0880/DSA_Streak/tree/master/0125-valid-palindrome) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Wizard0880/DSA_Streak/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Wizard0880/DSA_Streak/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
