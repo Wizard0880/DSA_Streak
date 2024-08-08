@@ -7,7 +7,7 @@ class Solution {
         // Pivot element
         for(int i = 0; i < n-1 ;i++){
             if(nums[i] > nums[i+1]){
-                lp = i;
+                //lp = i;
                 rp = i+1;
             }
         }
@@ -15,10 +15,3 @@ class Solution {
     }
 }
 
-// class Solution {
-//     public int findMin(int[] nums) {
-//         Arrays.sort(nums);
-//         int p = nums[0];
-//         return p;
-//     }
-// }
