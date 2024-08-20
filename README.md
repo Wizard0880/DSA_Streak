@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Wizard0880/DSA_Streak/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Wizard0880/DSA_Streak/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0033-search-in-rotated-sorted-array) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Wizard0880/DSA_Streak/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Wizard0880/DSA_Streak/tree/master/0268-missing-number) |
