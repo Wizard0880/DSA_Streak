@@ -5,14 +5,28 @@ class Solution {
 
         if(n != m){
             return false;
+        }else{
+
+            HashMap<Character,Integer> map = new HashMap<>();
+
+            for(int i = 0 ; i < n ; i++){
+                  char ch = s.charAt(i);
+                 map.put(ch,map.getOrDefault(ch,0)+1);
+            }
+
+            for(int i = 0;i < n ;i++){
+                char ch = t.charAt(i);
+                if(map.get(ch) != null){
+                    if(map.get(ch) == 1){
+                        map.remove(ch);
+                    }else{
+                        map.put(ch,map.get(ch) - 1);
+                    }
+                }else{
+                    return false;
+                }
+            }
+            return true;
         }
-
-        char arr1[] = s.toCharArray();
-        char arr2[] = t.toCharArray();
-
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
-
-        return Arrays.equals(arr1,arr2);
     }
 }
