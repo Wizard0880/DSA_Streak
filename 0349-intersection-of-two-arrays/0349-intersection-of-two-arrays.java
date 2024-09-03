@@ -1,27 +1,29 @@
+import java.util.HashSet;
+
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-
-        HashSet<Integer> Arr1Set = new HashSet<>();
-        HashSet<Integer> Arr2Set = new HashSet<>();
-
-        for (int i = 0; i < n; i++) {
-            Arr1Set.add(nums1[i]);
+        HashSet<Integer> set1 = new HashSet<>();
+        HashSet<Integer> set2 = new HashSet<>();
+        
+        // Add all elements of nums1 to set1
+        for (int num : nums1) {
+            set1.add(num);
         }
 
-        for(int i = 0; i < m; i++){
-            if(Arr1Set.contains(nums2[i])){
-                Arr2Set.add(nums2[i]);
+        // Add elements from nums2 to set2 if they are in set1
+        for (int num : nums2) {
+            if (set1.contains(num)) {
+                set2.add(num);
             }
         }
-        
-        int p = Arr2Set.size();
-        int arr[] = new int[p];
 
-        for(int i = 0; i < p; i++){
-         arr[i] = (int) Arr2Set.toArray()[i];
+        // Convert set2 to array
+        int[] result = new int[set2.size()];
+        int i = 0;
+        for (int num : set2) {
+            result[i++] = num;
         }
-        return arr;
+        
+        return result;
     }
 }
