@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Wizard0880/DSA_Streak/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/0503-next-greater-element-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wizard0880/DSA_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
