@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Wizard0880/DSA_Streak/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Wizard0880/DSA_Streak/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
