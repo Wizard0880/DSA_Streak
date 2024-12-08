@@ -1,46 +1,25 @@
 class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
-        fun(nums,0,n - 1);
-    }
-    public void fun(int nums[],int si,int ei){
+        int low = 0 ;
+        int mid = 0 ;
+        int high = n - 1;
 
-        int mid = si + (ei - si) / 2;
-        if(si >= ei){
-            return;
-        }
-
-        fun(nums,si,mid);
-        fun(nums,mid+1,ei);
-        result(nums,si,mid,ei);
-    }
-
-    public void result(int nums[],int si,int mid,int ei){
-        int arr[] = new int[ei - si + 1];
-        int i = si;
-        int j = mid + 1;
-        int k = 0;
-
-        while(i <= mid && j <= ei){
-            if(nums[i] < nums[j]){
-                arr[k] = nums[i];
-                i++;
+        while(mid <= high){
+            if(nums[mid] == 0){
+                int temp = nums[mid];
+                nums[mid] = nums[low];
+                nums[low] = temp;
+                low++;
+                mid++;
+            }else if(nums[mid] == 1){
+                mid++;
             }else{
-                arr[k] = nums[j];
-                j++;
+                int temp = nums[high];
+                nums[high] = nums[mid];
+                nums[mid] = temp;
+                high--;
             }
-            k++;
-        }
-
-        while(i <= mid){
-            arr[k++] = nums[i++];
-        }
-        while(j <= ei){
-            arr[k++] = nums[j++];
-        }
-        for ( k = 0; k < arr.length; k++) {
-            nums[si + k] = arr[k];
         }
     }
-    
 }
