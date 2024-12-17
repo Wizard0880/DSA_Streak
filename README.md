@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Wizard0880/DSA_Streak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Wizard0880/DSA_Streak/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0349-intersection-of-two-arrays) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Wizard0880/DSA_Streak/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Wizard0880/DSA_Streak/tree/master/0344-reverse-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0215-kth-largest-element-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 ## Quickselect
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Wizard0880/DSA_Streak/tree/master/0011-container-with-most-water) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Wizard0880/DSA_Streak/tree/master/0169-majority-element) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 ## Database
 |  |
 | ------- |
