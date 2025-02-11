@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Wizard0880/DSA_Streak/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Wizard0880/DSA_Streak/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Wizard0880/DSA_Streak/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Wizard0880/DSA_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 ## Divide and Conquer
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Wizard0880/DSA_Streak/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/0503-next-greater-element-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Wizard0880/DSA_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Wizard0880/DSA_Streak/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Wizard0880/DSA_Streak/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Wizard0880/DSA_Streak/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Wizard0880/DSA_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
