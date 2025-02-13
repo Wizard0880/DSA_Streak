@@ -8,12 +8,11 @@ class Solution {
 
         int i = 0;
         while(i < a.length() && i < b.length()){
-            if(a.charAt(i) == b.charAt(i)){
-                sb.append(a.charAt(i));
-                i++;
-            }else{
+            if(a.charAt(i) != b.charAt(i)){
                 break;
             }
+            sb.append(a.charAt(i));
+            i++;
         }
         return sb.toString();
     }
