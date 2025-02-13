@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wizard0880/DSA_Streak/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0215-kth-largest-element-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wizard0880/DSA_Streak/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wizard0880/DSA_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
