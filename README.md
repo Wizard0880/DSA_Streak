@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Wizard0880/DSA_Streak/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/0503-next-greater-element-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wizard0880/DSA_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wizard0880/DSA_Streak/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wizard0880/DSA_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
