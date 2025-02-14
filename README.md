@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Wizard0880/DSA_Streak/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/0503-next-greater-element-ii) |
+| [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wizard0880/DSA_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Wizard0880/DSA_Streak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Wizard0880/DSA_Streak/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Wizard0880/DSA_Streak/tree/master/0349-intersection-of-two-arrays) |
+| [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Wizard0880/DSA_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Wizard0880/DSA_Streak/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Wizard0880/DSA_Streak/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Wizard0880/DSA_Streak/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Wizard0880/DSA_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
