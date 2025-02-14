@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Wizard0880/DSA_Streak/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/0503-next-greater-element-ii) |
 | [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Wizard0880/DSA_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wizard0880/DSA_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Wizard0880/DSA_Streak/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Wizard0880/DSA_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Wizard0880/DSA_Streak/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Wizard0880/DSA_Streak/tree/master/0268-missing-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Wizard0880/DSA_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,8 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Wizard0880/DSA_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Wizard0880/DSA_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
