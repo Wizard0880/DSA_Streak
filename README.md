@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Wizard0880/DSA_Streak/tree/master/0503-next-greater-element-ii) |
 | [0816-design-hashset](https://github.com/Wizard0880/DSA_Streak/tree/master/0816-design-hashset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Wizard0880/DSA_Streak/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Wizard0880/DSA_Streak/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Wizard0880/DSA_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Wizard0880/DSA_Streak/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -206,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Wizard0880/DSA_Streak/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Wizard0880/DSA_Streak/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
